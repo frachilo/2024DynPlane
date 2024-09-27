@@ -9,6 +9,7 @@ A short explanation about the files:
 
 > Representation of the dynamical planes: the output Z of the previous files is the input of
 >> plotDynPlane.m
+
 There is an additional file "Examples of use.mlx" that will help you how to proceed with the generation and representation of the dynamical planes.
 Good luck!
 
