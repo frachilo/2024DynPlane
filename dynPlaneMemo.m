@@ -4,7 +4,7 @@ function Z=dynPlaneMemo(fun,N,tol,limits,roots)
 % guesses in the rectangle defined by limits. Convergence is set when the 
 % distance between the iterates and roots is lower than tol
 % 
-% Test: fun = @(x0,x1)(x0.*x1+1.0)./(x0+x1)
+% Test: fun = @(x)(x(:,1).*x(:,2)+)./(x(:,1)+x(:,2))
 % Z=dynPlaneMemo(fun,200,1e-6,[-2 2 -2 2],[-1 1])
 
 x=linspace(limits(1),limits(2),N);
