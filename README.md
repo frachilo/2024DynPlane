@@ -1,5 +1,5 @@
 Dear reader,
-My name is Francisco Chicharro (frachilo@upv.es). Here you will find a set of programs for Matlab to generate dynamical planes. If you use this code for your publication, I would be grateful if you could cite the work in which it is published: [reference].
+My name is Francisco Chicharro (frachilo@upv.es). Here you will find a set of programs for Matlab to generate dynamical planes. If you use this code for your publication, I would be grateful if you could cite the work in which it is published: [reference]. The software has been registered in the database of Universitat Politècnica de València with reference no S-241-2025.
 A short explanation about the files:
 
 > Generation of the dynamical planes
